@@ -1,0 +1,17 @@
+{
+  "name": "buildless-jsx",
+  "version": "0.0.0",
+  "description": "Converts the JSX in a Colab notebook cell into browser-compatible JavaScript.",
+  "module": "./main.js",
+  "dependencies": {
+    "tslib": "^2.4.0",
+    "typescript": "^5.1.6"
+  },
+  "author": "The Buildless JSX Authors (see AUTHORS)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/material-foundation/buildless-jsx/issues"
+  },
+  "homepage": "https://github.com/material-foundation/buildless-jsx",
+  "packageManager": "yarn@4.0.1"
+}
